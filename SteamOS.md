@@ -1,7 +1,7 @@
 # SteamOS
 ## Brief Description
 
-SteamOS is a product produced by Valve and runs on the same x86 architecture as Windos.
+SteamOS is a product developed by Valve and runs on the same x86 architecture as Windos.
 
 It is recommended not to use it as a normal OS. It is made for Gaming and Gamers. It is directly connected with your Steam Account and you can already play a quater of all Games availible on Steam on this OS and its getting more.
 It is a free Operating System.
